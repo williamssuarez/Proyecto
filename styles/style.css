@@ -1,0 +1,23 @@
+button{
+    text-align: center;
+}
+
+input[type=submit]{
+    margin: 0px auto;
+}
+
+
+div[name=margin]{
+    margin: 0px auto;
+
+}
+
+.navbar{
+    padding: 2rem;
+    background-color: black;
+    color: grey;
+}
+/*
+button[href="empleados.php"]{
+    margin: 0px auto;
+}*/
